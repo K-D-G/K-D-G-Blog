@@ -1,11 +1,10 @@
 # Site settings
-title: My Blog
-email: coolwebconfs@gmail.com
-description: My simple blog.
-baseurl: ""
-url: ""
-twitter_username: 
-avatar: "" # Set footer avatar
+title: K-D-G-Blog
+email: grayshonprogrammer@gmail.com
+description: A blog by K-D-G
+baseurl: "/K-D-G-Blog"
+twitter_username: Kieran_Grayshon
+avatar: "https://pbs.twimg.com/profile_images/1017834568848760833/L9VxsqtX_400x400.jpg" # Set footer avatar
 paginate: 3
 
 # Build settings
@@ -19,8 +18,8 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "My Author" # Set default author name
-      categories: "cats"
+      author: "K-D-G" # Set default author name
+      categories: "Computer Science"
       layout: "post"
       comments: true
   -
